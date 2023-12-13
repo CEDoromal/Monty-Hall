@@ -1,0 +1,1 @@
+A CLI program based on the Monty Hall problem written in Go. It computes the win rate of those who switched answers compared to those who did not. (This is primarily just to serve as a learning experience in using Go.)
